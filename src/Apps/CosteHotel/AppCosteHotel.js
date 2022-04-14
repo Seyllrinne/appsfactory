@@ -1,6 +1,6 @@
 import { useState } from "react";
-import PropCosteHotel from "./Complements/PropCosteHotel";
-import PropCosteViaje from "./Complements/PropCosteViaje"
+import PropCosteHotel from "./Components/PropCosteHotel";
+import PropCosteViaje from "./Components/PropCosteViaje"
 
 
 const AppCosteHotel = () => {
